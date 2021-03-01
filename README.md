@@ -8,7 +8,7 @@
 
 [![Akuru](http://akuru.epizy.com/favicon.ico)](http://akuru.epizy.com)
 
-[Hello](https://img.shields.io/:dependabot-badge-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjggOCAxOTAgMTkwIj48ZyBmaWxsPSIjRkZGIj48cGF0aCBkPSJNMTQuNiA1Ni4ySDE3NXYxMTguN0gxNC42ek03Ny4yIDguN2gzNS4ydjM1LjZINzcuMnoiLz48cGF0aCBkPSJNMTAwLjcgMzIuNGgxMS43djM1LjRoLTExLjd6TTIuOSAxMTEuNmgyMy41djM1LjZIMi45ek0xNjMuMiAxMTEuNmgyMy41djM1LjZoLTIzLjV6Ii8%2bPC9nPjxnIGZpbGw9IiM1NTUiPjxwYXRoIGQ9Ik01Ny43IDExNS41bC03LjktNy45LTcuOCA4IDE1LjcgMTUuN0w4MSAxMDcuNmwtNy44LTh6TTEyNC4xIDExNS41bC03LjgtNy45LTcuOCA4IDE1LjYgMTUuNyAyMy41LTIzLjctNy44LTh6Ii8%2bPC9nPjwvc3ZnPg==)
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 <!--
 **YohanSandun/YohanSandun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
