@@ -10,10 +10,3 @@
 ⚡ Windows development <br>
 ⚡ Game development <br>
 ⚡ Interested in 3D/CG/VFX <br>
-
-![C++](https://img.shields.io/badge/-Cpp-blue?style=flat-square&logo=cpp)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
-
-
