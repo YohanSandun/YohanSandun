@@ -8,6 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanSandun&layout=compact)
 
 ⚡ Android development <br>
+⚡ Flutter development <br>
+⚡ Web development <br>
 ⚡ Windows development <br>
 ⚡ Game development <br>
 ⚡ Interested in 3D/CG/VFX <br>
