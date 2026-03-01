@@ -4,9 +4,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yohan.sandun.5)](https://www.facebook.com/yohan.sandun.5)
 [![Website](https://img.shields.io/badge/WebSite-222222?&style=flat-square&logo=google-chrome&logoColor=white&link=https://yohan.akurukb.com)](https://yohan.akurukb.com/)
 
-![YohanSandun's github stats](https://github-readme-stats.vercel.app/api?username=YohanSandun&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohanSandun&layout=compact)
-
 ⚡ Android development <br>
 ⚡ Flutter development <br>
 ⚡ Web development <br>
